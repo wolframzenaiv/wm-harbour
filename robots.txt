@@ -1,0 +1,15 @@
+
+User-agent: MJ12bot
+User-agent: dotbot
+User-agent: coccocbot-web
+User-agent: BLEXBot
+User-agent: HTTrack
+User-agent: Slurp
+User-agent: Baiduspider
+User-agent: Yandex
+User-agent: magpie-crawler
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: AhrefsBot
+Disallow: /
+
